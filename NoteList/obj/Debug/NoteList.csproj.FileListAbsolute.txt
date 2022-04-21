@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\NoteList\NoteList\bin\Debug\NoteList.exe.config
+C:\Users\Admin\source\repos\NoteList\NoteList\bin\Debug\NoteList.exe
+C:\Users\Admin\source\repos\NoteList\NoteList\bin\Debug\NoteList.pdb
+C:\Users\Admin\source\repos\NoteList\NoteList\obj\Debug\NoteList.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\NoteList\NoteList\obj\Debug\NoteList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NoteList\NoteList\obj\Debug\NoteList.exe
+C:\Users\Admin\source\repos\NoteList\NoteList\obj\Debug\NoteList.pdb
